@@ -1,0 +1,11 @@
+export const solutions = [
+  { name: 'Corporate Companies', sub: 'Employee SOS & Facility Muster', tag: 'Corporate B2B', text: 'Enterprise workplace safety sentry, employee SOS triggers, automated incident escalation, and multi-facility emergency muster systems.' },
+  { name: 'Smart Cities', sub: 'Connected Urban Emergency Corridors', tag: 'Urban IoT', text: 'Adaptive traffic preemption, connected sensor networks, and real-time municipal emergency routing across urban centers.' },
+  { name: 'Government Agencies', sub: 'Disaster Command & City Resilience', tag: 'Smart Governance', text: 'Unified municipal disaster response, public safety compliance logging, and regional emergency data infrastructure across civil administration.' },
+  { name: 'Ambulance Providers', sub: 'Fleet GPS & Dynamic CAD Dispatch', tag: 'Emergency Fleets', text: 'Fleet GPS tracking, intelligent automated dispatch matching, real-time hospital route optimization, and live telemetry handoff.' },
+  { name: 'Traffic Management', sub: 'Green Corridors & Signal Preemption', tag: 'Traffic & Transit', text: 'Automated green corridor traffic signal preemption to clear congested city arteries dynamically for incoming emergency vehicles.' },
+  { name: 'Police Departments', sub: 'Geospatial Mapping & Transit Escort', tag: 'Law Enforcement', text: 'Law enforcement CAD integration, automated emergency transit escort notification, and dynamic geospatial crime and trauma incident mapping.' },
+  { name: 'Hospitals & Clinics', sub: 'Pre-Arrival Telemetry & Bed Prep', tag: 'Healthcare ER', text: 'Pre-arrival trauma ER patient telemetry, automated trauma bed allocation, and direct physician triage preparation before patient arrival.' },
+  { name: 'Educational Campuses', sub: 'Student Safety & Medical Transit', tag: 'Higher Ed & Schools', text: 'Campus-wide emergency beacon triggers, student medical transit coordination, and direct synchronized dispatch with nearby trauma hospitals.' },
+  { name: 'Industrial & Manufacturing', sub: 'Hazmat & Industrial Trauma Triage', tag: 'Industrial Plants', text: 'Factory floor automated trauma escalation, hazmat incident protocol synchronization, and rapid industrial emergency response routing.' },
+]
